@@ -1,4 +1,4 @@
-## Hi there 👋
+> Open source step 1 - how to make a wonderful but useless personalized github homepage XD
 
 <!--
 **Faqawarc/Faqawarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
