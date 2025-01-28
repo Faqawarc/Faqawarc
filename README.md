@@ -20,3 +20,5 @@ Here are some ideas to get you started:
         <img alt="Moe Counter!" src="https://count.getloli.com/@Faqawarc?name=Faqawarc&theme=booru-jaypee&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
     </a>
 </p>
+
+![](https://raw.githubusercontent.com/Faqawarc/Faqawarc/refs/heads/output/github-contribution-grid-snake-dark.svg)
